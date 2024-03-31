@@ -1,4 +1,5 @@
 import spacy
+import spacy
 from spacy import displacy
 from spacy.tokens import DocBin
 from spacy.util import filter_spans
