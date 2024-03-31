@@ -8,6 +8,7 @@ import subprocess
 import matplotlib.pyplot as plt
 from collections import Counter
 import streamlit as st
+from streamlit_option_menu import option_menu
 import os
 import pandas as pd
 
